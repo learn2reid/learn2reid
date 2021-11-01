@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/learn2reid/learn2reid/blob/main/devcard.svg" style="width: 400px;" alt="LR's Dev Card">
+<img src="https://github.com/learn2reid/learn2reid/blob/main/devcard.svg" style="width: 300px;" alt="LR's Dev Card">
 
 <!--
 **learn2reid/learn2reid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
